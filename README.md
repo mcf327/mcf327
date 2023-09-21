@@ -1,6 +1,6 @@
 <h3>👋 Hi there!</h3>
 I'm Matt, a former restaurant manager turned fullstack software engineer committed to building practical user-friendly solutions.
-Thanks for checking out my page, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-french89/). Let's create together!
+Thanks for checking out my page, and feel free to connect with me here or on LinkedIn. Let's create together!
 
 <h3>My Tech Toolbox:</h3>
 
